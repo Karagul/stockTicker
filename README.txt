@@ -1,4 +1,4 @@
-Hello and welcome to a simple stock ticker tracker, so far it gives description of selected ticker for given date range and it generates a bollingar plot.
+Hello and welcome to a simple stock ticker tracker, so far it gives description of selected ticker for given date range and it generates a bollinger plot.
 
 More features to come!
 
